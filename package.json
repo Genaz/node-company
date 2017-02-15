@@ -1,0 +1,26 @@
+{
+  "name": "node-company",
+  "version": "1.0.0",
+  "description": "Nodejs application to manage customers details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genaz/node-company.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genaz/node-company/issues"
+  },
+  "homepage": "https://github.com/Genaz/node-company#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.8.2"
+  }
+}
